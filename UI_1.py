@@ -1,4 +1,5 @@
 import tkinter as tk
+import numpy as np
 
 root = tk.Tk()
 T = tk.Text(root, height=10, width=30)
